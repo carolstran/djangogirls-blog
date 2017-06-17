@@ -3,4 +3,4 @@ Attended the Django Girls Berlin workshop and created a blogging web application
 
 Utilized Python, Django, SQLite and Bootstrap.
 
-See it live [here](http://stranskycaro.pythonanywhere.com/).
+Hosted on PythonAnywhere. See it live [here](http://stranskycaro.pythonanywhere.com/).
